@@ -17,5 +17,7 @@ DEMO: [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nb
 - Building genome-scale metabolic models for individual bacterial isolates to map genomic variation onto ecological niche space.
 - Construct metabolic models from bacterial isolate sequencing data, and use those models to map commensal genomic variation to metabolic niche space.
 
+DEMO: [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/shejz/ISB-Microbiome/blob/main/Models_solutions.ipynb)
+
 
 
