@@ -6,9 +6,11 @@
 A symposium featuring six prominent microbiome researchers who are working to build computational and experimental tools for exploring rapid within-host bacterial evolution, and how these population genomic signatures may be related to ecosystem function, human phenotypic variation, or disease pathologies.
 
 
-## Part 1: Amplicon Sequencing Data Analysis with QIIME 2
+## Part 1: Amplicon Sequencing Data Analysis with QIIME 2 
 - Quantitative Insights Into Microbial Ecology [QIIME2](https://qiime2.org/).
 - Amplicon sequencing data processing and analyses.
+
+DEMO: [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/shejz/ISB-Microbiome/blob/main/Amplicon_Sequencing_Data_Analysis.ipynb)
 
 
 ## Part 2: Metabolic Modeling of Bacterial Isolates
